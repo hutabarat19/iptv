@@ -208,11 +208,8 @@ https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
 #EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="Sports",beINSports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157561
 
-#EXTINF:-1  tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Sports",TVRI Sport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="Sports",TVRI Sport HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20000.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Sports",MOJI TV
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
