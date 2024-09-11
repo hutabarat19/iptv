@@ -131,7 +131,7 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://id.wikipedia.org/wiki/K-Plus#/media/Berkas:K_Plus_Asia_Logo.jpg" group-title="Premium Movies",K+
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://www.kplus-asia.com/img/title/logo2.png" group-title="Premium Movies",K+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
